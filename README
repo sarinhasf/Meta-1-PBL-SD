@@ -1,0 +1,10 @@
+Detalhes do Código:
+
+> Biblioteca Conio.h:
+Biblioteca do Windows para capturar entradas do teclado em tempo real sem esperar pelo 
+Enter.
+_getch(): Captura uma tecla pressionada.
+_kbhit(): Verifica se uma tecla foi pressionada.
+
+> Comando do Windows
+system("cls") -> Limpa a tela no Windows
